@@ -1,3 +1,6 @@
 [submodule "casey-tansey-ruby"]
 	path = casey-tansey-ruby
 	url = https://github.com/ctansey12600/casey-tansey
+[submodule "casey-tansey-react"]
+	path = casey-tansey-react
+	url = https://github.com/ctansey12600/casey-tansey-portfolio
